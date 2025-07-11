@@ -49,10 +49,15 @@ The goal was to reflect Numi AI's mission — helping users improve their mental
 ## 📂 Folder Structure
 
 /public
+
 /src
+
 App.jsx
+
 index.js
+
 tailwind.config.js
+
 README.md
 
 ---
