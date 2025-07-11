@@ -1,4 +1,4 @@
-# 🌿 Numi AI – Landing Page Redesign 👉 https://bimi-numi-ai-redesign.vercel.app
+# 🌿 Numi AI – Landing Page Redesign 
 
 This is my submission for the **Bimi Internship Assignment**, focused on redesigning the [JoinNumi.com](https://joinnumi.com) landing page.
 
