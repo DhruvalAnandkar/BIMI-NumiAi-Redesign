@@ -30,8 +30,8 @@ The goal was to reflect Numi AI's mission — helping users improve their mental
 
 ## 🖼 Live Preview
 
-🔗 **Live Website:** [https://bimi-numi-ai-redesign.vercel.app](https://bimi-numi-ai-redesign.vercel.app)  
-🎥 **Loom Walkthrough:** [Paste Your Loom Link Here]
+🔗 **Live Website:** https://bimi-numi-ai-redesign.vercel.app 
+🎥 **Loom Walkthrough:** https://www.loom.com/share/1e55dadfc4174b049af5f34b8f8debc0?sid=794f56b2-a4e2-4ecd-b4e4-ff72483bd8e9
 
 ---
 
